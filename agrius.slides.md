@@ -121,3 +121,9 @@ Kubernets is used to handle container orchestration. In practise this gives us:
 ## Open Source!
 
 https://github.com/agriuseatstweets
+
+## Summary
+
+Open Source framework for collected streaming Tweets: [github.com/agriuseatstweets](https://github.com/agriuseatstweets). Instant deploy with Kubernetes/Helm to multi-zone cluster. Highly durable file storage. Optimized for high throughput (Hosebird + Clojure, PubSub). Live, flexible dashboarding framework provided by Elasticsearch/Kibana.
+
+![](./design.png){height=115px}\     ![](./dash.png){height=115px}
